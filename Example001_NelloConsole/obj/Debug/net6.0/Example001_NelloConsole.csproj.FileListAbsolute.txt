@@ -1,0 +1,15 @@
+/Users/Anna/Desktop/Учеба/1 четверть/4 блок. Знакомство с языками программирования/Лекция 1. Знакомство с С#/Exapmles/Example001_NelloConsole/bin/Debug/net6.0/Example001_NelloConsole
+/Users/Anna/Desktop/Учеба/1 четверть/4 блок. Знакомство с языками программирования/Лекция 1. Знакомство с С#/Exapmles/Example001_NelloConsole/bin/Debug/net6.0/Example001_NelloConsole.deps.json
+/Users/Anna/Desktop/Учеба/1 четверть/4 блок. Знакомство с языками программирования/Лекция 1. Знакомство с С#/Exapmles/Example001_NelloConsole/bin/Debug/net6.0/Example001_NelloConsole.runtimeconfig.json
+/Users/Anna/Desktop/Учеба/1 четверть/4 блок. Знакомство с языками программирования/Лекция 1. Знакомство с С#/Exapmles/Example001_NelloConsole/bin/Debug/net6.0/Example001_NelloConsole.dll
+/Users/Anna/Desktop/Учеба/1 четверть/4 блок. Знакомство с языками программирования/Лекция 1. Знакомство с С#/Exapmles/Example001_NelloConsole/bin/Debug/net6.0/Example001_NelloConsole.pdb
+/Users/Anna/Desktop/Учеба/1 четверть/4 блок. Знакомство с языками программирования/Лекция 1. Знакомство с С#/Exapmles/Example001_NelloConsole/obj/Debug/net6.0/Example001_NelloConsole.csproj.AssemblyReference.cache
+/Users/Anna/Desktop/Учеба/1 четверть/4 блок. Знакомство с языками программирования/Лекция 1. Знакомство с С#/Exapmles/Example001_NelloConsole/obj/Debug/net6.0/Example001_NelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Anna/Desktop/Учеба/1 четверть/4 блок. Знакомство с языками программирования/Лекция 1. Знакомство с С#/Exapmles/Example001_NelloConsole/obj/Debug/net6.0/Example001_NelloConsole.AssemblyInfoInputs.cache
+/Users/Anna/Desktop/Учеба/1 четверть/4 блок. Знакомство с языками программирования/Лекция 1. Знакомство с С#/Exapmles/Example001_NelloConsole/obj/Debug/net6.0/Example001_NelloConsole.AssemblyInfo.cs
+/Users/Anna/Desktop/Учеба/1 четверть/4 блок. Знакомство с языками программирования/Лекция 1. Знакомство с С#/Exapmles/Example001_NelloConsole/obj/Debug/net6.0/Example001_NelloConsole.csproj.CoreCompileInputs.cache
+/Users/Anna/Desktop/Учеба/1 четверть/4 блок. Знакомство с языками программирования/Лекция 1. Знакомство с С#/Exapmles/Example001_NelloConsole/obj/Debug/net6.0/Example001_NelloConsole.dll
+/Users/Anna/Desktop/Учеба/1 четверть/4 блок. Знакомство с языками программирования/Лекция 1. Знакомство с С#/Exapmles/Example001_NelloConsole/obj/Debug/net6.0/refint/Example001_NelloConsole.dll
+/Users/Anna/Desktop/Учеба/1 четверть/4 блок. Знакомство с языками программирования/Лекция 1. Знакомство с С#/Exapmles/Example001_NelloConsole/obj/Debug/net6.0/Example001_NelloConsole.pdb
+/Users/Anna/Desktop/Учеба/1 четверть/4 блок. Знакомство с языками программирования/Лекция 1. Знакомство с С#/Exapmles/Example001_NelloConsole/obj/Debug/net6.0/Example001_NelloConsole.genruntimeconfig.cache
+/Users/Anna/Desktop/Учеба/1 четверть/4 блок. Знакомство с языками программирования/Лекция 1. Знакомство с С#/Exapmles/Example001_NelloConsole/obj/Debug/net6.0/ref/Example001_NelloConsole.dll
